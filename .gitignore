@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset grande
+data/raw/
+data/processed/
+
+# Outputs pesados
+outputs/models/
+outputs/plots/
+outputs/reports/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# TensorFlow logs
+logs/

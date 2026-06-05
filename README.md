@@ -8,8 +8,6 @@ O objetivo do projeto é treinar e comparar redes neurais convolucionais criadas
 
 ## Integrantes
 
-> Preencher com os nomes completos e RM dos integrantes do grupo.
-
 - Natan Eguchi dos Santos — RM: 98720
 - Kayky Paschoal Ribeiro  — RM: 99929
 - Lucas Yuji Farias Umada — RM: 99757

@@ -11,14 +11,21 @@ venv/
 # Jupyter
 .ipynb_checkpoints/
 
-# Dataset grande
+# Dataset original e processado grande
 data/raw/
 data/processed/
 
-# Outputs pesados
-outputs/models/
-outputs/plots/
-outputs/reports/
+# Não ignorar data/sample
+!data/sample/
+
+# Modelos gerados pesados
+outputs/models/*
+!outputs/models/best_model.keras
+
+# Manter plots, reports e architectures
+!outputs/plots/
+!outputs/reports/
+!outputs/architectures/
 
 # Sistema
 .DS_Store

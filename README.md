@@ -291,7 +291,6 @@ medistar-vision-acv/
   src/
     build_classification_dataset.py
     debug_labels.py
-    train_models.py
 
   .gitignore
   README.md

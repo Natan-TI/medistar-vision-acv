@@ -271,7 +271,7 @@ streamlit run app/streamlit_app.py
 A aplicação permite enviar uma imagem de satélite ou selecionar uma amostra do dataset, retornando a classe prevista, confiança da predição e interpretação operacional para o Medistar.
 
 > [!NOTE]
-> Acesse a demo [aqui](medistar.streamlit.app)
+> Acesse a demo [aqui](https://medistar.streamlit.app)
 
 ![Imagem Medistar Streamlit](assets/images/image.png)
 

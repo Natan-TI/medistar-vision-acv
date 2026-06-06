@@ -108,6 +108,12 @@ O notebook que documenta esse processo é:
 notebooks/01_geracao_dataset_classificacao.ipynb
 ```
 
+O arquivo auxiliar que foi utilizado para inspecionar as cores RGB das máscaras segmentadas e mapear corretamente as classes do dataset é:
+
+```text
+src/debug_labels.py
+```
+
 ---
 
 ## Distribuição Final do Dataset

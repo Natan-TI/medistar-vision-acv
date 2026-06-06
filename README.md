@@ -261,6 +261,15 @@ Interpretação Medistar:
 Região com possível isolamento territorial, floresta densa ou acesso mais difícil.
 ```
 
+Além do notebook de demonstração, o projeto também possui uma aplicação simples em Streamlit:
+
+```bash
+streamlit run app/streamlit_app.py
+```
+
+A aplicação permite enviar uma imagem de satélite ou selecionar uma amostra do dataset, retornando a classe prevista, confiança da predição e interpretação operacional para o Medistar.
+![Imagem Medistar Streamlit](assets/images/image.png)
+
 ---
 
 ## Estrutura do Repositório
@@ -400,6 +409,7 @@ outputs/models/best_model.keras
 - Scikit-learn
 - Pillow
 - Jupyter Notebook
+- Streamlit
 
 ---
 

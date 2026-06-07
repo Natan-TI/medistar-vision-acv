@@ -9,6 +9,7 @@ O objetivo do projeto é treinar e comparar redes neurais convolucionais criadas
 ## Links
 
 Vídeo de demonstração no Youtube: https://youtu.be/ueohA4qHkRk
+
 Demo no Streamlit: https://medistar.streamlit.app
 
 ---
